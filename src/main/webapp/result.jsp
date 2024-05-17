@@ -9,7 +9,8 @@
 <body>
 <h3>
 filename : ${filename}<br>
-saveFilename : ${saveFilename}
+saveFilename : ${saveFilename}><br />
+<img src="upload/${saveFilename}">
 </h3>
 </body>
 </html>
